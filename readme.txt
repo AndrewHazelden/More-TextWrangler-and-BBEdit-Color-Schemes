@@ -20,3 +20,9 @@ http://www.barebones.com/products/bbedit/index.html
 
 TextWrangler
 http://www.barebones.com/products/textwrangler/
+
+
+If you are running Mountain Lion and the Color Schemes folder doesn't exist you can create the folders manually.
+
+One way to create the folders is to use the terminal program and run the command:
+  mkdir -p ~/"Library/Application Support/TextWrangler/Color Schemes/"
