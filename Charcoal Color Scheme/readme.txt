@@ -3,7 +3,7 @@ for TextWrangler and BBEdit
 ---------------------------
 
 Version History
-Version 1.0 - Sept 25, 2012
+Version 2.0 - December 30, 2016
 
 The Charcoal color scheme is used to customize the syntax highlighting in TextWrangler and BBEdit.
 
